@@ -1,0 +1,39 @@
+.nav-logo{
+    width: 80px;
+}
+.register-button{
+    font-weight: bold;
+    text-decoration: none;
+    width: 100%;
+    align-items: center;
+    margin-left: 10px;
+    color: rgb(241, 153, 46);
+    margin-block: 10px;
+    text-align: center;
+    transition: 0.3s;
+} 
+.register-button:hover{
+    font-weight: bold;
+    text-decoration: none;
+    width: 100%;
+    align-items: center;
+    margin-left: 10px;
+    color: rgb(241, 153, 46);
+    margin-block: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.register-button:active{
+    font-weight: bold;
+    text-decoration: none;
+    width: 100%;
+    align-items: center;
+    margin-left: 10px;
+    color: rgb(241, 153, 46);
+    margin-block: 10px;
+    text-align: center;
+    color: black;
+} 
+.cart{
+  color: black;
+}

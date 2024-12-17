@@ -1,0 +1,50 @@
+[
+    {
+        "image": "image-1.jpg",
+        "title": "T SHIRTS",
+        "pkr": "RS 2000",
+        "description": "Comfortable and stylish T-shirt, crafted from soft fabric to keep you looking and feeling great all day."
+    },
+    {
+        "image": "image-2.jpg",
+        "title": "Sneakers",
+        "pkr": "RS 8,999",
+        "description": "Sleek and durable sneakers designed for all-day comfort, combining style and support for any adventure."
+    },
+    {
+        "image": "image-3.jpg",
+        "title": "PREM CAP",
+        "pkr": "RS 600",
+        "description": "Comfortable and stylish cap made from breathable fabric, perfect for sunny days or casual outings"
+    },
+    {
+        "image": "image-4.jpg",
+        "title": "SHOES",
+        "pkr": "RS 2,500",
+        "description": "Formal shoes stylish and compact accessory designed to hold essentials, perfect for evenings."
+    },
+    {
+        "image": "image-5.jpg",
+        "title": "BLUE JEANS",
+        "pkr": "RS 1,600",
+        "description": "Blue jeans Timeless and denim pants that offer comfort and style, suitable for casual outings and everyday wear."
+    },
+    {
+        "image": "image-6.jpg",
+        "title": "SR PERFUME",
+        "pkr": "RS 10,000",
+        "description": "SR perfume: An alluring fragrance that combines captivating notes to create a memorable scent. "
+    },
+    {
+        "image": "image-7.jpg",
+        "title": "HOODIE",
+        "pkr": "RS 1,599",
+        "description": "Hoodie: A cozy and stylish sweatshirt with a hood, perfect for layering and ideal for casual outings or lounging at home."
+    },
+    {
+        "image": "image-8.jpg",
+        "title": "FORMAL PANT",
+        "pkr": "RS 1,999",
+        "description": "Formal pants: Tailored trousers that exude professionalism and sophistication, ideal for business settings and formal occasions."
+    }
+]
