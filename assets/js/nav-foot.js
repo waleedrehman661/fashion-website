@@ -34,7 +34,6 @@ document.querySelector("header").innerHTML += `
            <a class="register-button" href="register.html">REGISTER<i class="fa-solid fa-user ms-2"></i></a>
             </form>
           </div>
-          <i class="fa-solid fa-cart-shopping"><div class="cart"></div></i>
         </div>
       </nav>
 `
